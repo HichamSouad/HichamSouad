@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm [Souad Hicham]
 
-<!--
-**HichamSouad/HichamSouad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Software Engineer** focused on building scalable, efficient, and user-friendly solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently a student at **1337 / UM6P** & intern at  **RI&HSE**
+🧠 Strong background in **C/C++**, **Web Development**, and **Systems Programming**  
+
+## 💻 Tech Stack
+
+- **Languages**: C, C++, TypeScript, JavaScript, Python, SQL  
+- **Front-end**: React, Next.js, Tailwind CSS  
+- **Back-end**: Next.js, Django  
+- **Database**: PostgreSQL 
+- **ORMs**: Drizzle
+- **Tools**: Git, Docker, Nginx, Postman, WebSockets
+
+## 🔭 Current Focus
+
+- Building projects using **Next.js**, **Drizzle ORM**, and **microservices architecture**  
+- Exploring **real-time communication** with WebSockets  
+- Writing clean, maintainable, and scalable code
+
+## 📫 Contact
+
+Let’s connect!
+
+- 📧 [Email](mailto:ms.souadhicham@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/souad-hicham/)  
+
+## 🧩 Fun Fact
+
+I enjoy getting my hands dirty with code.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
