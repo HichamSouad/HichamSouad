@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Souad Hicham]
+# 👋 Hi, I'm Souad Hicham
 
 Welcome to my GitHub! I'm a passionate **Software Engineer** focused on building scalable, efficient, and user-friendly solutions.
 
 ## 🚀 About Me
 
-🎓 Currently a student at **1337 / UM6P** & intern at  **RI&HSE**
+🎓 Currently a student at **1337 / UM6P** 
 🧠 Strong background in **C/C++**, **Web Development**, and **Systems Programming**  
 
 ## 💻 Tech Stack
