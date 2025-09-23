@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Souad Hicham
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** focused on building scalable, efficient, and user-friendly solutions.
+Welcome to my GitHub! I'm a  **Software Engineer** focused on building scalable, efficient, and user-friendly solutions.
 
 ## 🚀 About Me
 
