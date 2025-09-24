@@ -11,16 +11,10 @@ Welcome to my GitHub! I'm a  **Software Engineer** focused on building scalable,
 
 - **Languages**: C, C++, TypeScript, JavaScript, Python, SQL  
 - **Front-end**: React, Next.js, Tailwind CSS  
-- **Back-end**: Next.js, Django  
+- **Back-end**: Next.js
 - **Database**: PostgreSQL 
 - **ORMs**: Drizzle
-- **Tools**: Git, Docker, Nginx, Postman, WebSockets
-
-## 🔭 Current Focus
-
-- Building projects using **Next.js**, **Drizzle ORM**, and **microservices architecture**  
-- Exploring **real-time communication** with WebSockets  
-- Writing clean, maintainable, and scalable code
+- **Tools**: Git, Docker, Nginx, Postman
 
 ## 📫 Contact
 
@@ -34,6 +28,3 @@ Let’s connect!
 I enjoy getting my hands dirty with code.
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
