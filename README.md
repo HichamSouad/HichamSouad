@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a  **Software Engineer** focused on building scalable,
 
 - **Languages**: C, C++, TypeScript, JavaScript, Python, SQL  
 - **Front-end**: React, Next.js, Tailwind CSS  
-- **Back-end**: Next.js
+- **Back-end**: Next.js, Django
 - **Database**: PostgreSQL 
 - **ORMs**: Drizzle
 - **Tools**: Git, Docker, Nginx, Postman
